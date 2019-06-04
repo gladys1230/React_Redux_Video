@@ -6,18 +6,6 @@
       "id": 3
     },
     {
-      "title": "I Create This Stream",
-      "description": "This was created by me!",
-      "userId": "110216780786038492686",
-      "id": 4
-    },
-    {
-      "title": "programmatic navigation",
-      "description": "this change made by patch request",
-      "userId": "110216780786038492686",
-      "id": 5
-    },
-    {
       "title": "Me Streaming Component Reuse!",
       "description": "this is refactoring stream",
       "id": 6
